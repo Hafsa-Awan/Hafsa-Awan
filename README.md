@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Hafsa</h1>
 <h3 align="center">🚀 Flutter Developer | 🔧 Laravel Backend Explorer | 🎥 Tech YouTuber at Tech Signals</h3>
 
 ---
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - A **Delivery Man App** using Flutter, Laravel & MySQL
   - An **EMI Payment System** with Razorpay, PayPal, and Orange Money integration
-  - A **Home Handyman Booking App** using Cubit & Clean Architecture
+  - A **Home Services Booking App** using Cubit & Clean Architecture
 
 - 🌱 I’m learning:
   - Advanced **Flutter & Dart**
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   - Laravel (APIs, Authentication, MySQL)
   - Clean Architecture in Flutter
 
-- 📹 I share tech tutorials on my channel: [**Tech Signals**](https://www.youtube.com/@techsignals)
+- 📹 I share tech tutorials on my channel: [**Tech Signals**](https://www.youtube.com/@techsignals866)
 
 - 📫 Reach me at: your.email@example.com
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@techsignals"><img src="https://img.shields.io/badge/YouTube-Tech Signals-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@techsignals866"><img src="https://img.shields.io/badge/YouTube-Tech Signals-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hafsa-a-37868225b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayesha666awan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
