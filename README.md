@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - **CI/CD pipelines** for Flutter apps
   - Laravel API integration for mobile apps
 
-- 🧠 Goal: Become a **Senior Flutter Developer** by building real-world apps with full-stack capability
+- 🎯 My mission: Build production-ready apps that solve real-world problems while leveling up every single day.
 
 - 🗓 I code & learn **daily** to improve my mobile and backend skills
 
