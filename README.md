@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love breaking big problems into beautiful, maintainable UI & architecture
 
----
+
 
 ### 🛠️ Tech Stack
 
