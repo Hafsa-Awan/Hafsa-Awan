@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>-->
----
 
 - 🔭 I’m currently working on:
   - A **Delivery Man App** using Flutter, Laravel & MySQL
