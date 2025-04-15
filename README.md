@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hafsa</h1>
+<h1>Hi 👋, I'm Hafsa</h1><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
+</p>
 <h3 align="center">🚀 Flutter Developer | 🔧 Laravel Backend Explorer | 🎥 Tech YouTuber at Tech Signals</h3>
 
 ---
