@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Hafsa-Awan&label=Profile%20views&color=0e75b6&style=flat" alt="infinity" />
 </p>-->
 <h3 align="center">🚀 Flutter Developer | 🔧 Laravel Backend Explorer | 🎥 Tech YouTuber at Tech Signals</h3>
----
+
 <!--<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>-->
+
+---
 
 - 🔭 I’m currently working on:
   - A **Delivery Man App** using Flutter, Laravel & MySQL
