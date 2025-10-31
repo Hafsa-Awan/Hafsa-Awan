@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hafsa-Awan&label=Profile%20views&color=0e75b6&style=flat" alt="infinity" />
 </p>-->
-<h3 align="center">🚀 Flutter Developer | 🔧 Laravel Backend Explorer | 🎥 Tech YouTuber at Tech Signals</h3>
+<h3 align="center"> Flutter Developer |  Laravel Backend Explorer |  Tech YouTuber at Tech Signals</h3>
 
 ---
 
@@ -44,30 +44,30 @@ Here are some ideas to get you started:
   - An **EMI Payment System** with Razorpay, PayPal, and Orange Money integration
   - A **Home Services Booking App** using Cubit & Clean Architecture
 
-- 🌱 I’m learning:
+-  I’m learning:
   - Advanced **Flutter & Dart**
   - Clean Architecture (MVVM, Repository Pattern)
   - **CI/CD pipelines** for Flutter apps
   - Laravel API integration for mobile apps
 
-- 🎯 My mission: Build production-ready apps that solve real-world problems while leveling up every single day.
+-  My mission: Build production-ready apps that solve real-world problems while leveling up every single day.
 
-- 🗓 I code & learn **daily** to improve my mobile and backend skills
+-  I code & learn **daily** to improve my mobile and backend skills
 
 - 💬 Ask me about:
   - Flutter (State Management, Maps, Firestore, REST APIs)
   - Laravel (APIs, Authentication, MySQL)
   - Clean Architecture in Flutter
 
-- 📹 I share tech tutorials on my channel: [**Tech Signals**](https://www.youtube.com/@techsignals866)
+-  I share tech tutorials on my channel: [**Tech Signals**](https://www.youtube.com/@techsignals866)
 
-- 📫 Reach me at: ayesha666awan@gmail.com
+-  Reach me at: ayesha666awan@gmail.com
 
-- ⚡ Fun fact: I love breaking big problems into beautiful, maintainable UI & architecture
+-  Fun fact: I love breaking big problems into beautiful, maintainable UI & architecture
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Awan&show_icons=true&theme=tokyonight" />
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.youtube.com/@techsignals866"><img src="https://img.shields.io/badge/YouTube-Tech Signals-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
