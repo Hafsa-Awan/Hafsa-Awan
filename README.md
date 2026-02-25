@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 -  I share tech tutorials on my channel: [**Tech Signals**](https://www.youtube.com/@techsignals866)
 
--  Reach me at: ayesha666awan@gmail.com
+-  Reach me at: hafsa.awan97@gmail.com
 
 -  Fun fact: I love breaking big problems into beautiful, maintainable UI & architecture
 
