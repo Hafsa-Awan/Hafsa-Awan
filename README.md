@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on:
-  - A **Delivery Man App** using Flutter, Laravel & MySQL
-  - An **EMI Payment System** with Razorpay, PayPal, and Orange Money integration
-  - A **Home Services Booking App** using Cubit & Clean Architecture
+  - A **Leebi Taxi Mobile App** using Flutter, Firebase & NodeJS
+  - An **Wallet App** with Wave Money, Stripe, and Orange Money integration
+  - A **Parent Planner Website** using Laravel & Blade(Front End Framework)
 
 -  I’m learning:
   - Advanced **Flutter & Dart**
